@@ -6,8 +6,8 @@
 
 Documenting my hands-on journey of learning Linux through commands, scripting, challenges, and real-world applications in Data Science, Cloud, and Software Engineering.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/linux-learning)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/linux-learning)
+![GitHub last commit](https://img.shields.io/github/last-commit/shravani22patil/linux-learning)
+![GitHub repo size](https://img.shields.io/github/repo-size/shravani22patil/linux-learning)
 ![Learning Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)
 ![Built With](https://img.shields.io/badge/Built%20With-Linux%20%7C%20Bash-blue)
 
